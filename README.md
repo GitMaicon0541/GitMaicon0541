@@ -11,7 +11,7 @@ Olá !!! me chamo MAICON NUNES
  </div> 
 <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitMaicon0541&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitMaicon0541&show_icons=true&theme=cobalt,&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMaicon0541&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
