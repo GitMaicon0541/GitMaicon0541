@@ -1,13 +1,14 @@
 Olá !!! me chamo MAICON NUNES
 
 
-div>
+<div>
 - 🗺️ Atualmente estudante ...
 - 🌱 Estudande no curso de Analise e desenvolvimento de sistemas ...
 - 👯 Contate-me no email ml33rh@hotmail.com ...
 - 🤔 Pouca experiencia em front-end , java e html(css) mas muita dedicacao em aprender ...
 - 😄 Pronouns: ele/dele ...
-
+ </div> 
+<div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitMaicon0541&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMaicon0541&layout=compact&langs_count=16&theme=dracula"/>
